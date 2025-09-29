@@ -29,9 +29,3 @@ Fueled by a passion for Software Engineering, I enjoy diving into new technologi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachmaadr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
-
-<br><br>
-<p align="center">Activity</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/rachmaadr/rachmaadr/output/snake.svg" alt="Snake animation" />
-</p>
