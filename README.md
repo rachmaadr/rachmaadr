@@ -1,16 +1,32 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-<!--
-**rachmaadr/rachmaadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Driven by a passion for Software Engineering, I love diving into new
+technologies and continuously expanding my knowledge across different domains.
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">💻 Tech Stack: </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+<h2 align="center"> 📊 GitHub Stats: </h2>
+
+<p align="center">
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rachmaadr&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachmaadr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</p>
+<br><br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/rachmaadr/rachmaadr/output/snake.svg" alt="Snake animation" />
+</p>
