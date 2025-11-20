@@ -20,10 +20,7 @@ Fueled by a passion for Software Engineering, I enjoy diving into new technologi
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 <br><br>
-<p align="center"> 📊 GitHub Stats: </p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rachmaadr&theme=dark&hide_border=false" />
-</p>
+<p align="center"> The most widely used programming language:</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachmaadr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
